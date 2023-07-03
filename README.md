@@ -1,6 +1,8 @@
 Sharchat Recsys 2023 Challange - Recommendations Squad
 
-List of the expreiment results:
+The best model is xgb_all_feat and the corresponding code in  src/xgb_all_cat_num.ipynb
+
+List of the experiment results:
 
 |        xgb_all_feat        | 5.968829287 | 6.37396  |          24/05/2023 05:09          |                    Hyper parameter turing with optuna                    |
 |:--------------------------:|-------------|----------|:----------------------------------:|:------------------------------------------------------------------------:|
